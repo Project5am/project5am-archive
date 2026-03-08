@@ -4,7 +4,7 @@ The documented record of the practice that produced Post Instruction Literacy.
 
 This is not supporting material for the PIL Toolkit. It is a separate object — the Project 5am archive across twenty years of work, from the first music production in 2001 to the naming of PIL in 2026. The archive is what gives the toolkit its authority. The toolkit is what the archive produced.
 
-The PIL Toolkit lives at github.com/Project5am/pil-toolkit.
+The PIL Toolkit lives at github.com/Project5am/post-instruction-literacy
 
 ---
 
